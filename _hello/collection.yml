@@ -2,7 +2,6 @@ collections:
   hello:
     output: true
     order:
-      - terms-of-use.md
       - privacy.md
       - faq.md
       - example-page.md
