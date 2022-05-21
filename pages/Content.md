@@ -20,7 +20,6 @@ col {
 </style>
 </head>
 <body>
-​
 <table style="width:100%">
   <tr>
     <td>one</td>
@@ -34,7 +33,7 @@ col {
   </tr>
   <tr>
     <td>red</td>
-    <td>green</td>
+    <td>Green</td>
     <td>blue</td>
   </tr>
 </table>
